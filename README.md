@@ -7,7 +7,7 @@
 https://vera8357.github.io/VueCli3-Cheri/dist/#/
 
 ## 簡介
-使用 Vue Cli 2 、 Vuex 及 Vue Router 製作的購物網站，主要功能有
+使用 Vue Cli 3 、 Vuex 及 Vue Router 製作的購物網站，主要功能有
 
 #### 前台
 * 首頁 Banner 、 商品 輪播
